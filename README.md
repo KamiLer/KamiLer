@@ -18,8 +18,8 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">01 / 公开仓库</th>
-    <th width="50%" align="left">02 / 灵感收藏</th>
+    <th width="450" align="left">01 / 公开仓库</th>
+    <th width="450" align="left">02 / 灵感收藏</th>
   </tr>
   <tr>
     <td>
